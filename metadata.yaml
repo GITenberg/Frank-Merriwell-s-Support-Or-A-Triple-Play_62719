@@ -1,0 +1,35 @@
+_repo: Frank-Merriwell-s-Support-Or-A-Triple-Play_62719
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Patten, William Gilbert
+    - Patten, William G. (William Gilbert)
+    - Patten, George William
+    - Wilder, William West
+    - Wilder, William W. (William West)
+    - Patten, Gilbert
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: https://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2020-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62719'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Dime novels'
+- !lcsh 'Merriwell, Frank (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Baseball -- Juvenile fiction'
+- !lcsh 'Merriwell, Dick (Fictitious character) -- Juvenile fiction'
+- GITenberg
+title: Frank Merriwell's Support; Or, A Triple Play
+url: http://www.gutenberg.org/ebooks/62719
